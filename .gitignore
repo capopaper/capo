@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.venv/
+.env
+
+# Output files
+output/
+*.json
+*.png
+
+# OS / IDE files
+.DS_Store
+.idea/
+.vscode/
