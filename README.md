@@ -96,14 +96,4 @@ The analysis is a multi-step process. Please run the notebook and scripts in the
     ```
 *   **Output:** The summary tables will be printed to your console.
 
-## Citation
 
-If you use this work, please cite our paper:
-```
-@article{YourLastName_2024_CaPo,
-  author    = {Author Names},
-  title     = {Evaluating Large Language Models for Strategic Knowledge Extraction in Capability-Based Planning},
-  journal   = {Conference/Journal Name},
-  year      = {2024},
-}
-```
