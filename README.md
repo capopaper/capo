@@ -2,8 +2,6 @@
 
 This repository contains the source code, data, and experimental pipeline for the paper: "Evaluating Large Language Models for Strategic Knowledge Extraction in Capability-Based Planning".
 
-The full paper is available for review in the repository.
-
 ## Repository Structure
 
 ```
