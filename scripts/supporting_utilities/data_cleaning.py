@@ -228,7 +228,7 @@ def similarity(a, b):
 
 def main():
     from pathlib import Path
-    PROJECT_ROOT = Path(__file__).resolve().parents[1] 
+    PROJECT_ROOT = Path(__file__).resolve().parents[2] 
     output_dir = PROJECT_ROOT / "output" / "data_cleaning_experimental"
     input_path = PROJECT_ROOT / "output" / "annotations_cleaned.json"
 
